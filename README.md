@@ -16,3 +16,7 @@ complete with 100% yay! <br>
 
 Completed! <br>[Certificate](https://coursera.org/share/3aa6af95af9b4fb068c1ad10e9025b28)
 <br>
+
+## Specialization Certificate
+
+[Link](https://coursera.org/share/fe498fa51ba17393bf7723b167a84e73)
