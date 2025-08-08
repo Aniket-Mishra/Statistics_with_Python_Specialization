@@ -2,6 +2,8 @@
 
 This repo contains everything I learnt and did during the specialization training in Statistics with Python Specialization offered by the University of Michigan on Coursera.
 
+There are detailed notes within jupyter notebooks along with screenshots about all the courses and sections along with the quizzes. Can be used as reference for this specialisation. I was quite happy with what I learnt here.
+
 ## Course 1: Understanding and Visualizing Data with Python
 
 Completed! <br>
